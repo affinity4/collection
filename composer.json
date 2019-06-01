@@ -1,6 +1,6 @@
 {
     "name": "affinity4/collection",
-    "description": "",
+    "description": "Iterable Collections with useful helper methods. Take control of your arrays!",
     "license": "MIT",
     "autoload": {
         "psr-4": {
