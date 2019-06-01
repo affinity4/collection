@@ -23,7 +23,6 @@ $Collection = new Collection([
     2 => 'three'
 ]);
 
-// TODO: Do this
 $Collection->key(); // 0
 $Collection->current(); // one
 $Collection->valid(); // true

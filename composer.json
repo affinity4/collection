@@ -1,6 +1,7 @@
 {
     "name": "affinity4/collection",
     "description": "",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Affinity4\\Collection\\": "src/"
